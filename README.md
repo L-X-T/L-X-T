@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 # ALEXander Thalhammer aka LX T
 
-- [Passionate Angular & Web Developer](https://www.angular-software.at/)
+- [Passionate Angular Developer](https://angular.st)
 - [Angular Coach & Consultant](https://www.angulararchitects.io/about/)
 - [Certified Digital Consultant](https://www.incite.at/de/expertinnen-mit-zertifikat/thalhammer-alexander.html)
 - [Certified Team Coach](https://www.trainingswiese.at/trainer_innen/alexander-thalhammer/)
-- [Mediator](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation), [Trader](https://howtotradetowin.com/), [Königrufer](https://de.wikipedia.org/wiki/K%C3%B6nigrufen)
-- [Board/Ski](https://www.youtube.com/watch?v=b4sakyx-VoY) & [Taiji Quan](https://www.daoismus.com/themen/taiji-quan.html) Addict ☯
+- [Mediator](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation) & [Königrufer](https://de.wikipedia.org/wiki/K%C3%B6nigrufen)
+- Snowboard/Ski Instructor & [Taiji Quan](https://www.daoismus.com/themen/taiji-quan.html) Addict ☯
 
 Born & working in [Graz](https://www.google.at/maps/place/Graz/), Austria, EU
 
