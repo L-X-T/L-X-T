@@ -1,41 +1,26 @@
-<!--
-**L-X-T/L-X-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Snowy mountain landscape with bright sun](sun-and-snow.jpg)
 
-Here are some ideas to get you started:
+# DI ALEXander Thalhammer MA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://raw.githubusercontent.com/L-X-T/L-X-T/main/grimming_from_glaeserkoppe.jpg)
-
-# ALEXander Thalhammer aka LX T
-
-- Agentic Angular Architect
-- [Coach, Consultant](https://www.angulararchitects.io/about/) & [Speaker](https://lxt.dev/)
-- [Certified Team Coach](https://www.trainingswiese.at/trainer_innen/alexander-thalhammer/), [Mediator](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation) & [Königrufer](https://de.wikipedia.org/wiki/K%C3%B6nigrufen)
-- [Snowboard/Ski Instructor](https://planneralm.freeski.school/) 🏂 & [Taiji Quan Addict](https://www.daoismus.com/themen/taiji-quan.html) ☯
+**Agentic Angular Architect** · Coach · Consultant · Speaker
 
 Born & working in [Graz](https://www.google.at/maps/place/Graz/), Austria, EU
 
-<p align="center" style="text-align: center">
-    <img src="https://raw.githubusercontent.com/L-X-T/L-X-T/main/handshake.gif" width="100px" />
-</p>
+## Recent talks & resources
 
-<p align="center" style="text-align: center">
-    <strong>choose communication channel</strong>
-</p>
+- **Agentic Angular** · [GitHub Repo](https://github.com/L-X-T/ng-agentic) · [Style Guide](https://github.com/L-X-T/ng-agentic/blob/main/style-guide/style-guide.md) · [Blog Series](https://www.angulararchitects.io/blog/ae-harness-setup-for-angular/)
+- **AI Refactoring** · [Slides DE](https://lxt.dev/ng-ai-refactoring.pdf) · [GitHub Repo](https://github.com/L-X-T/ng-ai-refactoring)
+- **SSR & IH** · [Slides EN](https://speakerdeck.com/lx_t/deferrable-views-and-incremental-hydration) · [GitHub Repo](https://github.com/L-X-T/ng-poland-ssr-ih) · [Guide For SSR](https://www.angulararchitects.io/blog/guide-for-ssr/)
+- **A11y** · [Slides EN](https://speakerdeck.com/lx_t/accessibility-with-angular) · [GitHub Repo](https://github.com/L-X-T/a11y-ng-days-2025) · [Blog Series](https://www.angulararchitects.io/blog/web-accessibility-in-angular/)
 
-<p align="center" style="text-align: center">
-	<a href="mailto:alexander.thalhammer@gmail.com?subject=Anfrage%20via%20GitHub"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.facebook.com/thalhammer"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/LX_T_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.linkedin.com/in/thalhammer/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/LX_T"><img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
+## Workshops
+
+[Agentic Engineering](https://www.angulararchitects.io/training/agentic-engineering-von-vibe-coding-zu-professionellen-ki-gestuetzten-workflows/) · [Accessibility](https://www.angulararchitects.io/training/angular-accessibility-workshop/) · [Best Practices](https://www.angulararchitects.io/training/angular-best-practices/) · [Performance](https://www.angulararchitects.io/training/angular-performance-optimization-workshop/) · [Styling](https://www.angulararchitects.io/training/angular-styling-workshop/)
+
+## Off duty
+
+[Snowboard/Ski Instructor](https://planneralm.freeski.school/) 🏂 · [Taiji Quan Addict](https://www.daoismus.com/themen/taiji-quan.html) ☯ · [Königrufer](https://de.wikipedia.org/wiki/K%C3%B6nigrufen)
+
+## Say hi
+
+[Mail](mailto:alex@thalhammer.name?subject=Anfrage%20via%20GitHub) · [GitHub](https://github.com/L-X-T) · [Facebook](https://www.facebook.com/thalhammer) · [Instagram](https://www.instagram.com/lx_t_/) · [LinkedIn](https://www.linkedin.com/in/thalhammer/) · [X](https://x.com/LX_T)
